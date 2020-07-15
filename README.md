@@ -14,37 +14,36 @@ Instalación
 * sudo git clone https://github.com/efren511/bad-buy.git
 * cd bad-buy
 * chmod 777 *
+* ./install.sh
 
-Documentation
+Ejecución
+------------
+* ./bad-buy.py
+
+Documentación
 -------------
 
-* Read the [Getting Started guide][7] if you are new to Symfony.
-* Try the [Symfony Demo application][23] to learn Symfony in practice.
-* Master Symfony with the [Guides and Tutorials][8], the [Components docs][9]
-  and the [Best Practices][10] reference.
+* Con la opción 1 iniciamos el servidor de Phishing
+* Con la opción 2 detenemos el servidor de Phishing
+* Con la opción 3 vemos la información que hemos capturado
+* Con la opción 4 salimos del software
 
-Community
+Comunidad
 ---------
 
-* [Join the Symfony Community][11] and meet other members at the [Symfony events][12].
-* [Get Symfony support][13] on Stack Overflow, Slack, IRC, etc.
-* Follow us on [GitHub][14], [Twitter][15] and [Facebook][16].
-* Read our [Code of Conduct][24] and meet the [CARE Team][25]
+* Somos una comunidad que tiene el fin de brindar
+  capacitaciones a personas para la protección de
+  sus datos personales
 
-Contributing
+Contribución
 ------------
 
-Symfony is an Open Source, community-driven project with thousands of
-[contributors][19]. Join them [contributing code][17] or [contributing documentation][18].
+* Ing Melissa --> Madam Mim
+* Tec Efren --> Mr Mime
+* Ing Jenny --> VioletaBad21
 
-Security Issues
+Errores
 ---------------
 
-If you discover a security vulnerability within Symfony, please follow our
-[disclosure procedure][20].
-
-About Us
---------
-
-Symfony development is sponsored by [SensioLabs][21], led by the
-[Symfony Core Team][22] and supported by [Symfony contributors][19].
+* Recuerda que puedes contactarte con cualquiera de nosotros en caso de
+  necesitar apoyo en cuando algún error al ejecutar la aplicación
