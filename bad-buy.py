@@ -43,7 +43,7 @@ def main():
             subprocess.run(["./stop.sh"], shell=True)
             exit()
         else:
-            print(colored("COMANDO DESCONOCIDO!!"))
+            print(colored("COMANDO DESCONOCIDO!!", "red"))
 
 
 if __name__ == '__main__':
