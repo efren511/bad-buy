@@ -1,7 +1,7 @@
 # bad-buy
 Phishing Bancario
 <p align="center"><a href="https://github.com/efren511/" target="_blank">
-    <img src="https://avatars3.githubusercontent.com/u/63146584?s=400&u=de7c9ffae723ddf230e206f0b77cfd586f12fb80&v=4">
+    <img src="https://github.com/efren511/bad-buy/blob/master/logo.png">
 </a></p>
 
 Bad Buy es un **Phishing** diseñado con fines unicamente educativos para
