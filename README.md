@@ -8,13 +8,12 @@ Bad Buy es un **Phishing** diseñado con fines unicamente educativos para
 mostrar a los usuarios los riesgos que existen en internet en cuanto
 a datos bancarios se refiere.
 
-Installation
+Instalación
 ------------
 
-* [Install Symfony][4] with Composer (see [requirements details][3]).
-* Symfony follows the [semantic versioning][5] strictly, publishes "Long Term
-  Support" (LTS) versions and has a [release process][6] that is predictable and
-  business-friendly.
+* sudo git clone https://github.com/efren511/bad-buy.git
+* cd bad-buy
+* chmod 777 *
 
 Documentation
 -------------
