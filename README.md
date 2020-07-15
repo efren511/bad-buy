@@ -4,10 +4,9 @@ Phishing Bancario
     <img src="https://avatars3.githubusercontent.com/u/63146584?s=400&u=de7c9ffae723ddf230e206f0b77cfd586f12fb80&v=4">
 </a></p>
 
-[Symfony][1] is a **PHP framework** for web and console applications and a set of reusable
-**PHP components**. Symfony is used by thousands of web applications (including
-BlaBlaCar.com and Spotify.com) and most of the [popular PHP projects][2] (including
-Drupal and Magento).
+Bad Buy es un **Phishing** diseñado con fines unicamente educativos para
+mostrar a los usuarios los riesgos que existen en internet en cuanto
+a datos bancarios se refiere.
 
 Installation
 ------------
