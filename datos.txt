@@ -1,0 +1,24 @@
+--------------------------------------------
+CC: 
+Nombre: 
+Mes: 
+Año: 
+ccv: 
+Estado: 
+Municipio: 
+Dirección: 
+Celular: 
+Correo: 
+--------------------------------------------
+--------------------------------------------
+CC: 9786 0701 4542 6111
+Nombre: diego cortes santos
+Mes: 4
+Año: 2022
+ccv: 211
+Estado: Coahuila
+Municipio: saltillo
+Dirección: 2323 lago nuevo
+Celular: 815143912
+Correo: luis@gmail.com
+--------------------------------------------
