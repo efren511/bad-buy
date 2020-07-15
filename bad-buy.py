@@ -38,7 +38,7 @@ def main():
         elif opcion == "2":
             subprocess.run(["./stop.sh"], shell=True)
         elif opcion == "3":
-            subprocess.run(["cat", "datos.txt"], shell=True)
+            subprocess.run(["cat", "datos.txt"])
         elif opcion == "4":
             subprocess.run(["./stop.sh"], shell=True)
             exit()
