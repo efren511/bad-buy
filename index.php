@@ -18,7 +18,7 @@
 			<h2>faltan 18$ pesos reingrese los datos</h2>
 			<h2>de su tarjeta para pagar el dinero restante.</h2>
 			<h2>Ingrese nuevamente la dirección a la cual</h2>
-			<h2>será enviarado el paquete</h2>
+			<h2>será enviado el paquete</h2>
 		</center>
 	</div>
 	<div class="contenedor">
